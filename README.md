@@ -1,5 +1,5 @@
-### Hi there 👋
-## Welcome to my GitHub page, it is currently a bit disorganized. I hope to get that fixed by the end of the term. feel free to check out some of my projects though
+## Hi there 👋
+Welcome to my GitHub page, it is currently a bit disorganized. I hope to get that fixed by the end of the term. feel free to check out some of my projects though
 <!--
 **AbdulBaseetShabi/AbdulBaseetShabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
