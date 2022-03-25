@@ -1,5 +1,11 @@
-## Hi there 👋
-Welcome to my GitHub page, feel free to check out my projects.
+## <p align="center">Hi 👋, I'm Abdul-Baseet</p> 
+### <p align="center"> 5A Student @ Wilfrid Laurier University | Full Stack Developer </p> 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abdulbaseet/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
 **AbdulBaseetShabi/AbdulBaseetShabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
